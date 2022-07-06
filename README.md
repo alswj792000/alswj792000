@@ -14,9 +14,5 @@
 #### ** GitHub stats**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000&show_icons=true&show_icons=true&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000&show_icons=true&show_icons=true&theme=dracula)
-
 #### ** Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000&layout=compact)](https://github.com/alswj792000/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
