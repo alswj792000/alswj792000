@@ -15,4 +15,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000&show_icons=true&show_icons=true&theme=onedark)
 
 #### ** Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000&langs_count=10&layout=compact&theme=dark)](https://github.com/alswj792000/alswj792000)
