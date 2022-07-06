@@ -13,8 +13,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000&show_icons=true&show_icons=true&theme=onedark)
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/shinsangeun/shinsangeun)
