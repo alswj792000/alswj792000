@@ -15,8 +15,3 @@
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-(Github Stat)
-[![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000)]
-
-(Most Used Language)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000)
