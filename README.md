@@ -12,3 +12,6 @@
 
 ------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000)](https://github.com/anuraghazra/github-readme-stats)
+/*커밋의 수(commits), 기여도(contribution), 이슈의 수(issues), 즐겨찾기(star), 작업내용 반영 요청(Pull Request), 팔로워 수, 그리고 보유 중인 저장소 등의 항목들에 대해 누적 분포 함수 를 이용해 계산됩니다.
+
+src/calculateRank.js 에서 수행되는 계산 작업의 내용을 확인할 수 있습니다.*/
