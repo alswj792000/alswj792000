@@ -9,10 +9,8 @@
 
 <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img  alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img  alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/>
 
-------------
-
-#### ** GitHub stats**
+#### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswj792000&show_icons=true&show_icons=true&theme=onedark)
 
-#### ** Top Langs**
+#### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswj792000&langs_count=10&layout=compact&theme=dark)](https://github.com/alswj792000/alswj792000)
